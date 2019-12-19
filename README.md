@@ -1,1 +1,1 @@
-# jenkins-Shared-Library1
+# Sample Jenkins Shared Library repo
