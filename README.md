@@ -1,1 +1,1 @@
-# Sample Jenkins Shared Library repo pipeline
+# Sample Jenkin's Shared Library repo pipeline
